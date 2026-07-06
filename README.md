@@ -200,7 +200,7 @@ print(me.motto())
 | 📜 | **Full Stack Web Development Certification** | Udemy — Nov 2025 to Present |
 | 🎓 | **MERN Stack Masterclass** | NoviTech R&D Pvt Ltd — Feb 2025 to Mar 2025 |
 | 💻 | **15+ Real-World Projects** | Across web development and intelligent systems |
-| 🌟 | **CGPA: 9.30** | B.Tech CSE @ SRM Institute of Science & Technology |
+| 🌟 | **CGPA: 9.47** | B.Tech CSE @ SRM Institute of Science & Technology |
 | 📈 | **Class XII: 72.42%** | Sri Ram Dayal Khemka Vivekananda Vidyalaya Junior College |
 | 🎯 | **Class X: 75.66%** | SSLC — Sri Ram Dayal Khemka Vivekananda Vidyalaya |
 
