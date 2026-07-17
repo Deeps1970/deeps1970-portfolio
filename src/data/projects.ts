@@ -11,6 +11,7 @@ import loginTailwind from "@/assets/projects/login-tailwind.png";
 import minixplay from "@/assets/projects/minixplay.png";
 import copilot from "@/assets/projects/copilot.png";
 import electiveNavigator from "@/assets/projects/electiveNavigator.png";
+import geotag from "@/assets/projects/geotag.png";
 
 export type Project = {
   id: string;
