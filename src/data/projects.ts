@@ -57,6 +57,16 @@ export const projects: Project[] = [
   },
   // Frontend
   {
+    id: "geotag",
+    title: "Geotag Studio AI",
+    description: "GeoTag Studio is a browser-based geotagging application that embeds real EXIF GPS metadata into photos while generating professional, customizable GPS overlays with interactive maps—all processed locally for complete privacy.",
+    image: geotag,
+    category: "frontend",
+    tech: ["React.js", "TypeScript", "Vite", "Tailwind CSS", "shadcn/ui", "Leaflet", "OpenStreetMap (OSM)", "HTML5 Canvas API", "piexifjs", "Lucide React"],
+    github: "https://github.com/Deeps1970/geotag-studio-ai",
+    live: "https://geotag-studio-one.vercel.app/",
+  },
+  {
     id: "inkverse",
     title: "InkVerse",
     description: "A club website with rich content management, user engagement features, and dynamic content.",
